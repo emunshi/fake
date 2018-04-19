@@ -3,7 +3,7 @@ package fake
 import (
 	"net"
 	"strings"
-
+	// random user agent generator
 	"github.com/corpix/uarand"
 )
 
